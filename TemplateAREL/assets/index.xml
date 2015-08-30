@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingConfig_73512f7275e8b9dfc915fc730c9b9e9c.zip">
+  <arel><![CDATA[html/index.html?c419cf603635f3b49626dedd1cf8785b]]></arel>
+  <object id="model5">
+    <title><![CDATA[tw]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/54814c27cc527742d553f868b7ba9518/54814c27cc527742d553f868b7ba9518.zip]]></model>
+      <transform>
+        <translation>
+          <x>178.0969085693</x>
+          <y>-115.7366714478</y>
+          <z>49.3149986267</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>-91.3812942505</z>
+        </rotation>
+        <scale>
+          <x>46.0</x>
+          <y>46.0</y>
+          <z>46.0</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="model6">
+    <title><![CDATA[mail]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/4be8394d117360a4ee9e9e6db13b4834/4be8394d117360a4ee9e9e6db13b4834.zip]]></model>
+      <transform>
+        <translation>
+          <x>-240.985824585</x>
+          <y>-106.7524642944</y>
+          <z>49.3149986267</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>-90.1636276245</z>
+        </rotation>
+        <scale>
+          <x>46.0</x>
+          <y>46.0</y>
+          <z>46.0</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="model7">
+    <title><![CDATA[internetSphere]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/255df4c196561689ead1cc1832d94f35/255df4c196561689ead1cc1832d94f35.zip]]></model>
+      <transform>
+        <translation>
+          <x>-209.1553955078</x>
+          <y>19.0848999023</y>
+          <z>56.5630187988</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>46.25</x>
+          <y>46.25</y>
+          <z>46.25</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>2</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+</results>
